@@ -43,11 +43,6 @@ The **Bank Management System** is a Python-based console application that simula
      ```
    - Follow the on-screen prompts to navigate through the various banking operations.
 
-## 📝 Notes
-
-- **Data Storage**: The application uses text files to store account information and transaction histories. Ensure that the script has the necessary permissions to read from and write to files in the directory.
-- **Security**: As a console-based application using basic file storage, it is recommended to handle sensitive information cautiously. For production environments, consider implementing robust security measures and using databases for data storage.
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
